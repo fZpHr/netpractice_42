@@ -2,7 +2,7 @@
 
 NetPractice is a project at 42 aimed at training students in network concepts. Rather than being an operational program, it consists of a set of exercises and tests designed to reinforce students' understanding in the field of network communications.
 
-*For more information, please refer to the project's subject in the git.*
+*For more information, please refer to the project's subject in the git and the net_practice.1.5.tgz.*
 
 ## Description
 
