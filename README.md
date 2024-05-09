@@ -6,7 +6,7 @@ NetPractice is a project at 42 aimed at training students in network concepts. R
 
 ## Description
 
-The NetPractice project offers students a series of exercises to familiarize them with the basics of network communications. The exercises cover various aspects of network protocols, from socket programming to creating clients and servers, as well as data exchange and error handling.
+The NetPractice project offers students a series of exercises to familiarize them with the basics of network communications. The exercises cover various aspects of network protocols.
 
 ## Objective
 
