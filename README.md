@@ -10,4 +10,4 @@ The NetPractice project offers students a series of exercises to familiarize the
 
 ## Objective
 
-The main objective of NetPractice is to provide students with practical experience in network programming. By working on these exercises, students gain a better understanding of the fundamental principles of network communications, which will enable them to develop applications
+The main objective of NetPractice is to provide students with practical experience in network programming. By working on these exercises, students gain a better understanding of the fundamental principles of network communications, which will enable them to develop applications.
